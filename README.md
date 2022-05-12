@@ -1,7 +1,7 @@
 <p align="left">
 <a href="https://github.com/aguswahy13">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguswahy13&show_icons=true&theme=LavenderBlush&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aguswahy13&layout=compact&langs_count=8&theme=LavenderBlush"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguswahy13&show_icons=true&theme=LightGrey&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aguswahy13&layout=compact&langs_count=8&theme=LightGrey"/>
 </a>
 </p>
 
